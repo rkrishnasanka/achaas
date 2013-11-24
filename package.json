@@ -1,7 +1,7 @@
 {
-  "name": "foaas",
+  "name": “a”chaas,
   "version": "0.0.1",
-  "description": "Fuck Off As A Service",
+  "description": “Aap Chutiye Hai as a Service”,
   "main": "server.coffee",
   "scripts": {
     "start": "./node_modules/.bin/coffee server.coffee",
