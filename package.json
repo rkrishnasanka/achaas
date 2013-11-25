@@ -1,7 +1,7 @@
 {
-  "name": “achaas”,
-  "version": “0.0.2”,
-  "description": “Aap Chutiye Hain as a Service”,
+  "name": "achaas",
+  "version": "0.0.1",
+  "description": "Aap Chutiye Hain as a Service",
   "main": "server.coffee",
   "scripts": {
     "start": "./node_modules/.bin/coffee server.coffee",
